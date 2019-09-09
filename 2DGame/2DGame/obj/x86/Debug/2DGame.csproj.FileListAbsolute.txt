@@ -1,0 +1,7 @@
+c:\users\txm\documents\visual studio 2010\Projects\2DGame\2DGame\obj\x86\Debug\_2DGame.Form1.resources
+c:\users\txm\documents\visual studio 2010\Projects\2DGame\2DGame\obj\x86\Debug\_2DGame.Properties.Resources.resources
+c:\users\txm\documents\visual studio 2010\Projects\2DGame\2DGame\obj\x86\Debug\2DGame.csproj.GenerateResource.Cache
+c:\users\txm\documents\visual studio 2010\Projects\2DGame\2DGame\bin\Debug\2DGame.exe
+c:\users\txm\documents\visual studio 2010\Projects\2DGame\2DGame\bin\Debug\2DGame.pdb
+c:\users\txm\documents\visual studio 2010\Projects\2DGame\2DGame\obj\x86\Debug\2DGame.exe
+c:\users\txm\documents\visual studio 2010\Projects\2DGame\2DGame\obj\x86\Debug\2DGame.pdb
